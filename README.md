@@ -1,3 +1,3 @@
 # FSqlite
 
-Flask learning
+Flask learning with sqlite db
